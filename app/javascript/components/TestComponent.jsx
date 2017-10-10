@@ -1,5 +1,5 @@
 import React from "react";
-import CheckmarkCircle from "images/checkmark-circle.svg";
+import CheckmarkCircle from "../images/checkmark-circle.svg";
 
 const TestComponent = props => (
   <div>
